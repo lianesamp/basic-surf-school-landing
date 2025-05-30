@@ -1,23 +1,19 @@
-# basic-surf-school-landing
+# 🌊 Everyone Surf School - Landing Page
 
-A simple and responsive landing page built with HTML, CSS, and vanilla JavaScript.  
-This project is part of my front-end development portfolio, aiming to showcase strong fundamentals and clean code practices.
+A fictional landing page project for a surf school, built to practice and showcase HTML, CSS, and JavaScript skills. The site presents a clean, modern design with animations and interactive sections to reflect the vibe of a real surf school.
 
-## 🚀 Technologies Used
+## 🧰 Technologies Used
 
-- HTML5 (semantic structure)
-- CSS3 (custom styling and responsiveness)
-- JavaScript (basic interactivity)
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **SwiperJS** – responsive slider
+- **ScrollRevealJS** – scroll animations
+- **RemixIcon** – modern and lightweight icons
 
-## 📄 Project Overview
+## 🎯 Features
 
-## 🎯 Objectives
-
-- Practice responsive layout and mobile-first design
-- Reinforce semantic HTML and clean CSS structure
-- Add light interactivity with JavaScript
-- Deploy a simple project to GitHub Pages
-
-## 📷 Preview
-
-> *Coming soon:*
+- Fully responsive layout
+- Smooth scroll-based animations
+- Surf trip/projects slider section
+- Design inspired by real surf culture
