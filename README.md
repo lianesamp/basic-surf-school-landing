@@ -10,6 +10,7 @@ A fictional landing page project for a surf school, built to practice and showca
 - **SwiperJS** – responsive slider
 - **ScrollRevealJS** – scroll animations
 - **RemixIcon** – modern and lightweight icons
+- **Google Fonts** – custom web fonts
 
 ## 🎯 Features
 
